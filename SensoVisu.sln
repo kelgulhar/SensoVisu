@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SensoVisu", "SensoVisu\SensoVisu.vcxproj", "{47125C15-4689-4FBD-AAE2-A8550C0D7B3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47125C15-4689-4FBD-AAE2-A8550C0D7B3E}.Debug|x64.ActiveCfg = Debug|x64
+		{47125C15-4689-4FBD-AAE2-A8550C0D7B3E}.Debug|x64.Build.0 = Debug|x64
+		{47125C15-4689-4FBD-AAE2-A8550C0D7B3E}.Debug|x86.ActiveCfg = Debug|Win32
+		{47125C15-4689-4FBD-AAE2-A8550C0D7B3E}.Debug|x86.Build.0 = Debug|Win32
+		{47125C15-4689-4FBD-AAE2-A8550C0D7B3E}.Release|x64.ActiveCfg = Release|x64
+		{47125C15-4689-4FBD-AAE2-A8550C0D7B3E}.Release|x64.Build.0 = Release|x64
+		{47125C15-4689-4FBD-AAE2-A8550C0D7B3E}.Release|x86.ActiveCfg = Release|Win32
+		{47125C15-4689-4FBD-AAE2-A8550C0D7B3E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17DE6316-B46C-4ADF-9419-581973516665}
+	EndGlobalSection
+EndGlobal
