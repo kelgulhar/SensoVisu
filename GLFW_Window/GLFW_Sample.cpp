@@ -1,10 +1,12 @@
+#include <librealsense2/rs.hpp>
+#include <iostream>
 
 
 
 #include <glad/gl.h>
 #include <GLFW/glfw3.h>
+#include <Windows.h>
 
-#include <iostream>
 
 int main(void)
 {
@@ -38,6 +40,8 @@ int main(void)
 		glfwPollEvents();
 	}
 
+	
+	Sleep(10000);
 	glfwTerminate();
 	return 0;
 }
