@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SaveImage", "SaveImage\Save
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PointCloud", "PointCloud\PointCloud.vcxproj", "{527CE51A-2EF8-4207-B3C3-641AD6D63CE8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImGui", "ImGui\ImGui.vcxproj", "{BC7739DF-ACEE-4D9E-856B-BF1EA0073416}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{527CE51A-2EF8-4207-B3C3-641AD6D63CE8}.Release|x64.Build.0 = Release|x64
 		{527CE51A-2EF8-4207-B3C3-641AD6D63CE8}.Release|x86.ActiveCfg = Release|Win32
 		{527CE51A-2EF8-4207-B3C3-641AD6D63CE8}.Release|x86.Build.0 = Release|Win32
+		{BC7739DF-ACEE-4D9E-856B-BF1EA0073416}.Debug|x64.ActiveCfg = Debug|x64
+		{BC7739DF-ACEE-4D9E-856B-BF1EA0073416}.Debug|x64.Build.0 = Debug|x64
+		{BC7739DF-ACEE-4D9E-856B-BF1EA0073416}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC7739DF-ACEE-4D9E-856B-BF1EA0073416}.Debug|x86.Build.0 = Debug|Win32
+		{BC7739DF-ACEE-4D9E-856B-BF1EA0073416}.Release|x64.ActiveCfg = Release|x64
+		{BC7739DF-ACEE-4D9E-856B-BF1EA0073416}.Release|x64.Build.0 = Release|x64
+		{BC7739DF-ACEE-4D9E-856B-BF1EA0073416}.Release|x86.ActiveCfg = Release|Win32
+		{BC7739DF-ACEE-4D9E-856B-BF1EA0073416}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
